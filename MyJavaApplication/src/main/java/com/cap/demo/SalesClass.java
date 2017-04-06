@@ -10,6 +10,7 @@ public class SalesClass {
 		{
 			System.out.println(""+datas[i]);
 		}
+		System.out.println("sdfs");
 	}
 
 }
