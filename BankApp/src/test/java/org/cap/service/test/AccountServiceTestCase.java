@@ -45,7 +45,7 @@ public class AccountServiceTestCase {
 	@Test
 	public void test_AddNumbers() {
 		//accService=new AccountServiceImpl();
-		assertEquals(12,accService.addNumbers(12, 20));
+		assertEquals(32,accService.addNumbers(12, 20));
 		
 	}
 	
